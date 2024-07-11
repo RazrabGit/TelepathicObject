@@ -22,7 +22,7 @@ There are no known issues at the moment.
 # installation (Manual)
 1. Install [BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/) into your game. 
 2. Download [LethalLib](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/) and drop it into "Lethal Company\BepInEx\plugins\"
-3. Download [LethalModDataLib](https://thunderstore.io/c/lethal-company/p/MaxWasUnavailable/LethalModDataLib/) and drop it into "Lethal Company\BepInEx\plugins\"
+3. Download [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) and unpack it into "Lethal Company\BepInEx\"
 4. Download this mod and move all mod files to "Lethal Company\BepInEx\plugins\"
 # Credits
 - *Evasia* for LethalLib and UnityTemplateProject
