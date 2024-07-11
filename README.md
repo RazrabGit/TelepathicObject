@@ -17,6 +17,8 @@ This mod adds a new dangerous telepathic mob: Burer, from the game "S.T.A.L.K.E.
 
 ![Screenshot_4](https://raw.githubusercontent.com/RazrabGit/TelepathicObject/main/Screenshots/Screenshot_4.png "Screenshot_4")
 
+
+Also check my [custom moon](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/SchoolMoon/) and [dungeon](https://thunderstore.io/c/lethal-company/p/MrUnrealTeam/SchoolDungeon/)
 # Known issues
 There are no known issues at the moment.
 # installation (Manual)
