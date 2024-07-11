@@ -12,6 +12,7 @@ A humanoid creature with exaggerated facial features, dressed in a black cloak w
 (See more information in the game bestiary...)
 # Description
 This mod adds a new dangerous telepathic mob: Burer, from the game "S.T.A.L.K.E.R.: Call of Pripyat". Unfortunately, for the sake of game balance and the complexity of writing code, not all mutant abilities were ready, for example, throwing objects at the player. Perhaps in the future this will be implemented. Now the burer has two abilities: to push the player away with a small wave and to exhaust him, knocking out items from his inventory. You can configure some of the values ​​responsible for the enemy's behavior in the mod config.
+
 ![Screenshot_2](https://raw.githubusercontent.com/RazrabGit/TelepathicObject/main/Screenshots/Screenshot_2.png "Screenshot_2")
 
 ![Screenshot_4](https://raw.githubusercontent.com/RazrabGit/TelepathicObject/main/Screenshots/Screenshot_4.png "Screenshot_4")
