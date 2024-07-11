@@ -25,5 +25,5 @@ There are no known issues at the moment.
 3. Download [HookGenPatcher](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/) and unpack it into "Lethal Company\BepInEx\"
 4. Download this mod and move all mod files to "Lethal Company\BepInEx\plugins\"
 # Credits
-- *Evasia* for LethalLib and UnityTemplateProject
-- *zealsprince* for source code of his mod, this helped me in loading mod to the game
+- **Evasia** for LethalLib and UnityTemplateProject
+- **zealsprince** for source code of his mod, this helped me in loading mod to the game
